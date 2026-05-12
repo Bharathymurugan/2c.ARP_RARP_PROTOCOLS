@@ -43,7 +43,7 @@ while True:
     s.send(ip.encode())
     print("MAC Address",s.recv(1024).decode())
 ```
-## OUPUT - ARP
+## OUTPUT - ARP
 Server side:
 <img width="1920" height="1080" alt="Screenshot 2026-05-12 105855" src="https://github.com/user-attachments/assets/bc6a40a2-ec52-470c-828c-aae928ccf024" />
 Client side:
@@ -84,7 +84,7 @@ while True:
 
 ```
 
-## OUPUT -RARP
+## OUTPUT -RARP
 Server side:
 <img width="1920" height="1080" alt="Screenshot 2026-05-12 115518" src="https://github.com/user-attachments/assets/20d4b7e1-f567-4c1b-9f6f-2535575c8ddb" />
 Client side:
