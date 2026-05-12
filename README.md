@@ -88,7 +88,8 @@ while True:
 Server side:
 <img width="1920" height="1080" alt="Screenshot 2026-05-12 115518" src="https://github.com/user-attachments/assets/20d4b7e1-f567-4c1b-9f6f-2535575c8ddb" />
 Client side:
-<img width="1920" height="1080" alt="Screenshot 2026-05-12 115322" src="https://github.com/user-attachments/assets/cad371de-6bca-4170-93bd-365fc5a894a4" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 144400" src="https://github.com/user-attachments/assets/f49f948a-5464-482b-b534-fd045073f796" />
+
 
 
 ## RESULT
