@@ -76,9 +76,9 @@ s.listen(5)
 c,addr=s.accept()
 address={"6A:08:AA:C2":"165.165.80.80","8A:BC:E3:FA":"165.165.79.1","FC:6D:77:89:96:9E":"169.254.93.130"}
 while True:
-    ip=c.recv(1024).decode()
+    mac=c.recv(1024).decode()
     try:
-        c.send(address[ip].encode())
+        c.send(address[mac].encode())
     except KeyError:
         c.send("Not found".encode())
 
